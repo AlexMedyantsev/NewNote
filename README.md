@@ -1,2 +1,4 @@
-# newNote
-Mimimalistic note writing Pet Project
+Pet Project NewNote
+
+Приложение позволяет писать, редактировать заметки, и создавать папки.
+Адаптировано под планшеты и мобильные устройства
