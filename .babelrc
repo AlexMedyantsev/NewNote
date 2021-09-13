@@ -1,0 +1,7 @@
+{
+  "presets": ["@babel/preset-react"],
+  "plugins": [
+    "transform-react-pug",
+    "@babel/transform-react-jsx"
+  ]
+}

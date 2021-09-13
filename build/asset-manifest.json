@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/boilerplate-react/static/js/main.9fa45cfd.chunk.js",
+    "main.js.map": "/boilerplate-react/static/js/main.9fa45cfd.chunk.js.map",
+    "runtime-main.js": "/boilerplate-react/static/js/runtime-main.021a7898.js",
+    "runtime-main.js.map": "/boilerplate-react/static/js/runtime-main.021a7898.js.map",
+    "static/js/2.8eeafa8c.chunk.js": "/boilerplate-react/static/js/2.8eeafa8c.chunk.js",
+    "static/js/2.8eeafa8c.chunk.js.map": "/boilerplate-react/static/js/2.8eeafa8c.chunk.js.map",
+    "index.html": "/boilerplate-react/index.html",
+    "static/js/2.8eeafa8c.chunk.js.LICENSE.txt": "/boilerplate-react/static/js/2.8eeafa8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.021a7898.js",
+    "static/js/2.8eeafa8c.chunk.js",
+    "static/js/main.9fa45cfd.chunk.js"
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="41px" viewBox="0 0 45 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>text-lines copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-188.000000, -147.000000)" fill="#0A84FF" fill-rule="nonzero">
+            <g id="text-lines-copy" transform="translate(188.000000, 147.000000)">
+                <path d="M39.776,10.766 L5,10.766 C2.239,10.766 0,8.527 0,5.766 C0,3.005 2.239,0.766 5,0.766 L39.776,0.766 C42.537,0.766 44.776,3.005 44.776,5.766 C44.776,8.527 42.537,10.766 39.776,10.766 Z" id="Path"></path>
+                <path d="M39.776,25.388 L5,25.388 C2.239,25.388 0,23.149 0,20.388 C0,17.626 2.239,15.388 5,15.388 L39.776,15.388 C42.537,15.388 44.776,17.626 44.776,20.388 C44.776,23.149 42.537,25.388 39.776,25.388 Z" id="Path"></path>
+                <path d="M39.776,40.01 L5,40.01 C2.239,40.01 0,37.771 0,35.01 C0,32.248 2.239,30.01 5,30.01 L39.776,30.01 C42.537,30.01 44.776,32.248 44.776,35.01 C44.776,37.771 42.537,40.01 39.776,40.01 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

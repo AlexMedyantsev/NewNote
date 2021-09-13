@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>add__icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-376.000000, -130.000000)" fill="#FF3B30" fill-rule="nonzero">
+            <g id="add__icon" transform="translate(376.000000, 130.000000)">
+                <path d="M22.979,0 C35.67,0 45.958,10.289 45.958,22.979 C45.958,35.669 35.669,45.958 22.979,45.958 C10.288,45.958 0,35.669 0,22.979 C0,10.289 10.288,0 22.979,0 Z M32,19 L13,19 C10.790861,19 9,20.790861 9,23 C9,25.209139 10.790861,27 13,27 L13,27 L32,27 C34.209139,27 36,25.209139 36,23 C36,20.790861 34.209139,19 32,19 L32,19 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
