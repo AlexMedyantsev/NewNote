@@ -1,0 +1,40 @@
+.action {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.action__button {
+  width: 25px;
+  height: 25px;
+  margin-left: 35px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+
+  &--delete {
+    background-image: url('../img/trash.svg');
+
+    &:hover {
+      background-image: url('../img/trash__icon-hover.svg');
+    }
+  }
+
+  &--close {
+    background-image: url('../img/left-arrow.svg');
+    margin-left: 0;
+  }
+
+  &--info {
+    background-image: url('../img/info.svg')
+  }
+}
+
+@media (max-width: 768px) {
+  .action {
+    justify-content: space-between;
+  }
+}

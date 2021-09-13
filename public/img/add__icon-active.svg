@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>add__icon copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-18.000000, -162.000000)" fill="#0070E2" fill-rule="nonzero">
+            <g id="add__icon-copy" transform="translate(18.000000, 162.000000)">
+                <path d="M22.979,0 C10.288,0 0,10.289 0,22.979 C0,35.669 10.288,45.958 22.979,45.958 C35.669,45.958 45.958,35.669 45.958,22.979 C45.958,10.289 35.67,0 22.979,0 Z M32.253,26.977 L26.952,26.977 L26.952,32.266 C26.952,34.473 25.187,36.262 22.98,36.262 C20.774,36.262 19.009,34.473 19.009,32.266 L19.009,26.975 L13.71,26.975 C11.503,26.975 9.704,25.186 9.704,22.978 C9.704,20.771 11.5,18.982 13.707,18.982 L19.009,18.982 L19.009,13.693 C19.009,11.485 20.774,9.696 22.98,9.696 C25.188,9.696 26.952,11.485 26.952,13.693 L26.952,18.983 L32.253,18.983 C34.46,18.983 36.25,20.773 36.25,22.98 C36.25,25.188 34.46,26.977 32.253,26.977 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

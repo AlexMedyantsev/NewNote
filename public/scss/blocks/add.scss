@@ -1,0 +1,35 @@
+.button {
+  display: block;
+  width: 25px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: 25px 25px;
+  cursor: pointer;
+  margin-left: 10px;
+
+  &--add {
+    background-image: url("../img/add__icon.svg");
+    &:hover {
+      background-image: url("../img/add__icon-hover.svg");
+    }
+
+    &:active {
+      background-image: url("../img/add__icon-active.svg");
+    }
+  }
+
+  &--remove {
+    background-image: url("../img/remove__icon.svg");
+    &:hover {
+      background-image: url("../img/remove__icon-active.svg");
+    }
+
+    &:active {
+      background-image: url("../img/remove__icon.svg");
+    }
+
+    &--active {
+      background-image: url("../img/remove__icon-active.svg");
+    }
+  }
+}

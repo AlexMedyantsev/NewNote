@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="37px" viewBox="0 0 46 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>right-arrow copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-130.000000, -31.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="right-arrow-copy" transform="translate(153.000000, 49.500000) rotate(180.000000) translate(-153.000000, -49.500000) translate(130.000000, 31.000000)">
+                <path d="M44.275,15.739 L30.211,1.675 C29.302,0.766 27.936,0.495 26.748,0.988 C25.56,1.481 24.789,2.642 24.792,3.926 L24.807,9.829 L3.167,9.883 C1.414,9.887 -0.004,11.312 -8.44184528e-06,13.065 L0.028,24.587 C0.03,25.429 0.366,26.235 0.963,26.829 C1.56,27.423 2.368,27.756 3.21,27.754 L24.85,27.7 L24.864,33.599 C24.868,34.885 25.645,36.041 26.835,36.53 C28.024,37.017 29.392,36.74 30.295,35.827 L44.29,21.694 C45.926,20.043 45.92,17.381 44.275,15.739 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
